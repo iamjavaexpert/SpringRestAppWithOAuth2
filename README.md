@@ -16,8 +16,8 @@ REST Application to manage users with OAuth2 authentication using Spring Boot.
 
 ## Tasks that are still needs to be done.
 
-1. [Authentication using Google] (https://developers.google.com/identity/protocols/OAuth2)
-2. [Authentication using Facebook] (https://developers.facebook.com/docs/facebook-login/)
+1. [Authentication using Google](https://developers.google.com/identity/protocols/OAuth2)
+2. [Authentication using Facebook](https://developers.facebook.com/docs/facebook-login/)
 
 ---
 
